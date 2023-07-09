@@ -11,3 +11,13 @@ __2. Alert Notification:__
 
  - The ```send_alert_notification``` method sends an alert notification using the configured email service. It creates an email message with the current price and sends it to the recipient email address specified in the email configuration.
    
+__Usage:__
+
+ -  The following libraries are required to be installed before running the code.
+   ```
+   pip install requests
+   ```
+    The following library is not mandatory. It should be installed depending on your needs.
+   ```
+   pip install smtplib
+   ```
