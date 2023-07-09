@@ -23,3 +23,5 @@ __Usage:__
    ```
    pip install smtplib
    ```
+ - To use this code, replace the ```api_url``` variable with the actual API endpoint to fetch real-time price data for your desired cryptocurrency and trading pair. Additionally, customize the email configuration dictionary in the ```email_config``` variable to match your SMTP server and email credentials.
+   
