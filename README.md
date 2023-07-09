@@ -17,7 +17,9 @@ __Usage:__
    ```
    pip install requests
    ```
+
     The following library is not mandatory. It should be installed depending on your needs.
+    
    ```
    pip install smtplib
    ```
