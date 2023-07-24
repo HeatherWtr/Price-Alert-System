@@ -9,7 +9,7 @@ class PriceAlertSystem:
         self.email_config = email_config
 
     def fetch_price_data(self):
-        # Fetch real-time price data from the cryptocurrency API
+        # Fetch real-time price data from the cryptocurrency API:
         url = f"{self.api_url}/price/{self.coin_symbol}"
         response = requests.get(url)
         if response.status_code == 200:
