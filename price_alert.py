@@ -40,7 +40,7 @@ class PriceAlertSystem:
 
 # Example usage:
 
-# Define API URL, coin symbol, and email configuration
+# Define API URL, coin symbol, and email configuration:
 api_url = "https://api.example.com"
 coin_symbol = "BTC/USD"
 
