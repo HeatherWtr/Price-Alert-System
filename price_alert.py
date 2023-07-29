@@ -55,10 +55,10 @@ email_config = {
 # Create an instance of PriceAlertSystem
 alert_system = PriceAlertSystem(api_url, coin_symbol, email_config)
 
-# Fetch current price data
+# Fetch current price data:
 current_price = alert_system.fetch_price_data()
 if current_price is not None:
-    # Define price thresholds for alert notifications
+    # Define price thresholds for alert notifications:
     upper_threshold = 50000
     lower_threshold = 40000
 
