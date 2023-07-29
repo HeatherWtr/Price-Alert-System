@@ -14,7 +14,7 @@ __2. Alert Notification:__
 __Usage:__
 
  -  The following libraries are required to be installed before running the code.
-   ```
+   ```bash
    pip install requests
    ```
 
