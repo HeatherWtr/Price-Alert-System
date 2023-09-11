@@ -1,6 +1,6 @@
 # Price Alert System
 
-A python project to create an alert system that sends notifications when cryptocurrency prices reach predefined levels.
+A python project to create an alert system that sends notifications when cryptocurrency prices reach predefined levels...
 In this Price Alert System script, i have implemented the following features;
 
 __1. Data Retrieval:__
